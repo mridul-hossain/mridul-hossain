@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" fill="#F3F4F9"/>
+  <g stroke="#4FB8A6" stroke-width="2" stroke-dasharray="5 5" opacity="0.7">
+    <line x1="200" y1="130" x2="100" y2="70"/>
+    <line x1="200" y1="130" x2="300" y2="70"/>
+    <line x1="200" y1="130" x2="200" y2="210"/>
+  </g>
+  <g>
+    <rect x="65" y="45" width="70" height="46" rx="8" fill="#E8A33D"/>
+    <text x="100" y="73" font-family="Arial, sans-serif" font-size="13" fill="#1B2242" text-anchor="middle" font-weight="bold">MTL</text>
+    <rect x="265" y="45" width="70" height="46" rx="8" fill="#E8A33D"/>
+    <text x="300" y="73" font-family="Arial, sans-serif" font-size="13" fill="#1B2242" text-anchor="middle" font-weight="bold">QUE</text>
+    <rect x="165" y="185" width="70" height="46" rx="8" fill="#E8A33D"/>
+    <text x="200" y="213" font-family="Arial, sans-serif" font-size="13" fill="#1B2242" text-anchor="middle" font-weight="bold">SHE</text>
+  </g>
+  <circle cx="200" cy="130" r="32" fill="#E8735A"/>
+  <rect x="192" y="115" width="16" height="30" rx="3" fill="#F3F4F9"/>
+  <rect x="185" y="122" width="30" height="16" rx="3" fill="#F3F4F9"/>
+</svg>
