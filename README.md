@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Mridul Hossain 👋
+# Hi, I'm Md Mridul Hossain 👋
 
-### Full-Stack Software Engineer · MSc Computer Science @ Concordia University · Montreal, Canada
+### Full-Stack Software Engineer · MEng in Software Engineering @ Concordia University · Montreal, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mridulhossain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulhossain/)
 [![GitHub followers](https://img.shields.io/github/followers/mridul-hossain?style=flat-square&logo=github&label=Followers)](https://github.com/mridul-hossain?tab=followers)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc Computer Science student at **Concordia University**, Montreal — Software Engineering coursework (SOEN)
+- 🎓 MEng in Software Engineering student at **Concordia University**, Montreal (SOEN)
 - 💻 Full-stack developer experienced across **backend APIs, mobile apps, and desktop software**
 - 🌱 Currently exploring **context-aware computing** and **ontology/knowledge-graph-based reasoning**
 - 🛠️ Comfortable working end-to-end: relational data modeling, REST API design, OAuth-based auth, and layered (N-tier) architecture
