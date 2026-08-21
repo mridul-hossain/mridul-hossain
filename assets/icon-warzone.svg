@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" fill="#F3F4F9"/>
+  <g stroke="#1B2242" stroke-width="2" stroke-linejoin="round">
+    <polygon points="140,60 180,85 180,130 140,155 100,130 100,85" fill="#E8A33D" opacity="0.9"/>
+    <polygon points="220,60 260,85 260,130 220,155 180,130 180,85" fill="#4FB8A6" opacity="0.9"/>
+    <polygon points="300,60 340,85 340,130 300,155 260,130 260,85" fill="#E8735A" opacity="0.85"/>
+    <polygon points="180,130 220,155 220,200 180,225 140,200 140,155" fill="#4FB8A6" opacity="0.6"/>
+    <polygon points="260,130 300,155 300,200 260,225 220,200 220,155" fill="#E8A33D" opacity="0.6"/>
+  </g>
+  <g transform="translate(220,60)">
+    <line x1="0" y1="0" x2="0" y2="-28" stroke="#1B2242" stroke-width="3" stroke-linecap="round"/>
+    <path d="M0,-28 L26,-20 L0,-12 Z" fill="#1B2242"/>
+  </g>
+</svg>
