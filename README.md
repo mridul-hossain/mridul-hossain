@@ -2,7 +2,7 @@
 
 # Hi, I'm Mridul Hossain 👋
 
-### Software Engineer · MSc Student @ Concordia University · Montreal, Canada
+### Full-Stack Software Engineer · MSc Computer Science @ Concordia University · Montreal, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mridulhossain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulhossain/)
 [![GitHub followers](https://img.shields.io/github/followers/mridul-hossain?style=flat-square&logo=github&label=Followers)](https://github.com/mridul-hossain?tab=followers)
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc student at **Concordia University**, Montreal — coursework in Software Engineering (SOEN)
-- 💻 Full-stack developer with hands-on experience across **Python, PHP, JavaScript, and C#**
-- 🌱 Currently exploring: <!-- e.g. "cloud-native systems", "applied ML", "distributed systems" — add yours -->
-- 🛠️ I enjoy building end-to-end applications — from backend APIs to mobile and desktop clients
+- 🎓 MSc Computer Science student at **Concordia University**, Montreal — Software Engineering coursework (SOEN)
+- 💻 Full-stack developer experienced across **backend APIs, mobile apps, and desktop software**
+- 🌱 Currently exploring **context-aware computing** and **ontology/knowledge-graph-based reasoning**
+- 🛠️ Comfortable working end-to-end: relational data modeling, REST API design, OAuth-based auth, and layered (N-tier) architecture
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/mridulhossain/)
 
 ---
@@ -31,37 +31,60 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Tools & Platforms**
+**Frameworks & Platforms**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-informational?style=flat-square)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-<!-- Add: MySQL, MongoDB, AWS, Docker, React, Node — whichever you actually use -->
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Context-Aware Travel App**](https://github.com/mridul-hossain/Context-Aware-Travel-App) | Academic project (Concordia SOEN 7761) — context-aware recommendations for travel planning | `Python` |
-| [**Smart Agro Management — Backend**](https://github.com/Smart-Agro-Management/sams-backup-php-api) | REST API backend powering an agricultural management system | `PHP` |
-| [**Smart Agro Management — Mobile**](https://github.com/Smart-Agro-Management/sams-mobile-app) | Companion mobile app for the Smart Agro Management platform | `JavaScript` |
-| [**Coffee Shop Management System**](https://github.com/mridul-hossain/Coffee-Shop-Management-System) | Management system for coffee shop operations | `C#` |
-| [**Digital Diary**](https://github.com/mridul-hossain/Digital-Diary) | Personal journaling application | `C#` |
+### 🧭 [Context-Aware Intelligent Travel Companion](https://github.com/mridul-hossain/Context-Aware-Travel-App)
+`Python` `KivyMD` `Ontology / OWL Reasoning` `Google Places API` `OAuth 2.0` `SQLite`
 
-<!-- Tip: add a one-line description to each repo on GitHub itself (Settings → About) —
-     several of these currently show no description, which is the first thing recruiters notice. -->
+Context-aware mobile travel assistant (Concordia SOEN 7761) that fuses real-time **location, weather, and time** signals with an **OWL ontology** (via Owlready2/Protégé) to reason about and recommend restaurants and activities. Built with Python and KivyMD, integrating the Google Places API, OpenWeatherMap API, and Google OAuth 2.0 for secure sign-in.
 
 ---
 
-## 📊 GitHub Stats
+### 🌾 [Smart Agro Management — Backend API](https://github.com/Smart-Agro-Management/sams-backup-php-api)
+`PHP` `REST API` `E-commerce Backend` `CRUD`
 
-<div align="center">
+REST API powering a **farmer-to-consumer agricultural marketplace**. Handles farmer and customer registration/login, product catalog management, shopping cart and order processing, delivery tracking, and a ratings & review system connecting farmers directly to buyers.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mridul-hossain&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-hossain&layout=compact&theme=default&hide_border=true)
+---
 
-</div>
+### 📱 [Smart Agro Management — Mobile App](https://github.com/Smart-Agro-Management/sams-mobile-app)
+`React Native` `JavaScript` `Cross-Platform Mobile`
+
+<img src="https://raw.githubusercontent.com/Smart-Agro-Management/sams-mobile-app/master/pictures/image01.jpg" width="500" alt="Smart Agro Management mobile app screenshot"/>
+
+Cross-platform **React Native** companion app for the Smart Agro Management platform — gives customers a mobile storefront to browse farm products, manage their cart, and place orders directly from their phone.
+
+---
+
+### ☕ [Coffee Shop Management System](https://github.com/mridul-hossain/Coffee-Shop-Management-System)
+`C#` `.NET` `N-Tier Architecture` `Desktop App`
+
+<img src="https://raw.githubusercontent.com/mridul-hossain/Coffee-Shop-Management-System/master/Output_Screenshots/Screenshot%20(230).png" width="500" alt="Coffee Shop Management System dashboard"/>
+
+Desktop management system for coffee shop operations, built in **C#** with a layered **Presentation / Business Logic / Data Access** architecture. Handles login & registration, order placement and cancellation, inventory tracking with low-stock alerts, and monthly profit reporting.
+
+---
+
+### 📔 [Digital Diary](https://github.com/mridul-hossain/Digital-Diary)
+`C#` `WinForms` `CRUD` `Desktop App`
+
+<img src="https://raw.githubusercontent.com/mridul-hossain/Digital-Diary/master/Output_Screenshots/output_home.JPG" width="500" alt="Digital Diary app screenshot"/>
+
+WinForms journaling application with secure login, full **CRUD** note management, priority tagging, and image attachments per entry — built around a dedicated data-access layer for persistence.
 
 ---
 
