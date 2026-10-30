@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Md Mridul Hossain — Full-Stack Software Engineer"/>
+<img src="assets/banner.svg" width="100%" alt="Md Mridul Hossain — GenAI Developer, AI Engineer, Full-Stack Engineer"/>
 
 <br/>
 

@@ -52,7 +52,7 @@
 
     <text x="58" y="140"><tspan fill="#E8735A">const</tspan><tspan fill="#EDEFF5"> engineer</tspan><tspan fill="#7C8496"> = </tspan><tspan fill="#7C8496">{</tspan></text>
     <text x="58" y="164"><tspan fill="#4FB8A6">  name</tspan><tspan fill="#7C8496">: </tspan><tspan fill="#E8A33D">"Md Mridul Hossain"</tspan><tspan fill="#7C8496">,</tspan></text>
-    <text x="58" y="188"><tspan fill="#4FB8A6">  role</tspan><tspan fill="#7C8496">: </tspan><tspan fill="#E8A33D">"Full-Stack Software Engineer"</tspan><tspan fill="#7C8496">,</tspan></text>
+    <text x="58" y="188"><tspan fill="#4FB8A6">  role</tspan><tspan fill="#7C8496">: [</tspan><tspan fill="#E8A33D">"GenAI Developer"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"AI Engineer"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"Full-Stack Engineer"</tspan><tspan fill="#7C8496">],</tspan></text>
     <text x="58" y="212"><tspan fill="#4FB8A6">  degree</tspan><tspan fill="#7C8496">: </tspan><tspan fill="#E8A33D">"MEng SWE @ Concordia University"</tspan><tspan fill="#7C8496">,</tspan></text>
     <text x="58" y="236"><tspan fill="#4FB8A6">  stack</tspan><tspan fill="#7C8496">: [</tspan><tspan fill="#E8A33D">"Java"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"Python"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"PHP"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"C#"</tspan><tspan fill="#7C8496">, </tspan><tspan fill="#E8A33D">"JS"</tspan><tspan fill="#7C8496">],</tspan></text>
     <text x="58" y="260"><tspan fill="#4FB8A6">  focus</tspan><tspan fill="#7C8496">: </tspan><tspan fill="#E8A33D">"distributed systems &amp; context-aware apps"</tspan></text>
