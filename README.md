@@ -14,12 +14,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MEng in Software Engineering student at **Concordia University**, Montreal (SOEN)
-- 💻 Full-stack developer experienced across **backend APIs, mobile apps, desktop software, and distributed systems**
-- ☕ Strong Java background — from GoF design-pattern-driven applications to CORBA-based distributed systems
-- 🗄️ Comfortable across relational database systems — **MySQL, Oracle DB, Microsoft SQL Server** — including schema design and data migration using **MySQL Workbench**
-- 🌱 Currently exploring **context-aware computing** and **ontology/knowledge-graph-based reasoning**
-- 🛠️ Work end-to-end: REST API design, OAuth-based auth, layered (N-tier) architecture, and distributed system design
+**GenAI Developer & Software Engineer** — I build multi-agent LLM systems, backed by years of shipping production software that real users depend on.
+
+- 🤖 **GenAI Developer at Deets Software Ltd**, building **AutoMarket AI**: an Agent-as-a-Service platform where five specialized LLM agents coordinate through a **LangGraph** state machine to act as an autonomous "digital CMO" for small businesses, with a person approving every action that spends money or publishes content
+- 🧠 GenAI focus: multi-agent orchestration with **LangGraph**, **RAG** on PostgreSQL + pgvector, prompt design and model routing across **Claude** and **GPT-4o**, and Python backends with **FastAPI, Celery, and Redis**
+- 🏗️ Software engineering foundation: re-engineered a university ERP in **Laravel/PHP**, migrated **~370,000 records** from MS SQL to MySQL with zero data loss, and integrated payment gateways for a fintech product and banking partners over **REST APIs**
+- 🗄️ Comfortable across **MySQL, PostgreSQL, Oracle DB, and Microsoft SQL Server**, plus Java, distributed systems, and layered architecture from earlier projects
+- 🧭 Also into knowledge-driven systems beyond LLMs: OWL ontologies and context-aware recommendations
+- 🎓 M.Eng. in Software Engineering, Concordia University (Montreal)
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/mridulhossain/)
 
 ---
